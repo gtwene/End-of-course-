@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1544521861 source:c:\users\doc.tea\documents\project\project_001\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"Student.h"
+	"Admin.h"
+	"Lecturer.h"
+
+1544512694 source:c:\users\doc.tea\documents\project\project_001\src\admin.cpp
+	"Admin.h"
+	"Student.h"
+	<iostream>
+	<string>
+
+1544512919 c:\users\doc.tea\documents\project\project_001\include\admin.h
+	<iostream>
+	<string>
+
+1544512634 source:c:\users\doc.tea\documents\project\project_001\src\lecturer.cpp
+	"Lecturer.h"
+	"Student.h"
+	<iostream>
+	<string>
+
+1544513598 c:\users\doc.tea\documents\project\project_001\include\lecturer.h
+	<iostream>
+	<string>
+	"Student.h"
+
+1544522875 source:c:\users\doc.tea\documents\project\project_001\src\student.cpp
+	"Student.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+
+1544522110 c:\users\doc.tea\documents\project\project_001\include\student.h
+	<iostream>
+	<string>
+
+1544512694 source:c:\users\doc.tea\documents\github\tenkorang\final_semester project(10659057)\project_001(10659057)\src\admin.cpp
+	"Admin.h"
+	"Student.h"
+	<iostream>
+	<string>
+
+1544592179 c:\users\doc.tea\documents\github\tenkorang\final_semester project(10659057)\project_001(10659057)\include\admin.h
+	<iostream>
+	<string>
+
+1544527631 c:\users\doc.tea\documents\github\tenkorang\final_semester project(10659057)\project_001(10659057)\include\student.h
+	<iostream>
+	<string>
+
+1544592597 source:c:\users\doc.tea\documents\github\tenkorang\final_semester project(10659057)\project_001(10659057)\src\lecturer.cpp
+	"Lecturer.h"
+	"Student.h"
+	<iostream>
+	<string>
+
+1544592620 c:\users\doc.tea\documents\github\tenkorang\final_semester project(10659057)\project_001(10659057)\include\lecturer.h
+	<iostream>
+	<string>
+	"Student.h"
+
+1544592345 source:c:\users\doc.tea\documents\github\tenkorang\final_semester project(10659057)\project_001(10659057)\src\student.cpp
+	"Student.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+
+1544592339 source:c:\users\doc.tea\documents\github\tenkorang\final_semester project(10659057)\project_001(10659057)\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"Student.h"
+	"Admin.h"
+	"Lecturer.h"
+
+1544592694 source:c:\users\doc.tea\documents\github\tenkorang\final_semester project_10659057\project_10659057\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"Student.h"
+	"Admin.h"
+	"Lecturer.h"
+
+1544527631 c:\users\doc.tea\documents\github\tenkorang\final_semester project_10659057\project_10659057\include\student.h
+	<iostream>
+	<string>
+
+1544592179 c:\users\doc.tea\documents\github\tenkorang\final_semester project_10659057\project_10659057\include\admin.h
+	<iostream>
+	<string>
+
+1544592620 c:\users\doc.tea\documents\github\tenkorang\final_semester project_10659057\project_10659057\include\lecturer.h
+	<iostream>
+	<string>
+	"Student.h"
+
+1544512694 source:c:\users\doc.tea\documents\github\tenkorang\final_semester project_10659057\project_10659057\src\admin.cpp
+	"Admin.h"
+	"Student.h"
+	<iostream>
+	<string>
+
+1544594131 source:c:\users\doc.tea\documents\github\tenkorang\final_semester project_10659057\project_10659057\src\lecturer.cpp
+	"Lecturer.h"
+	"Student.h"
+	<iostream>
+	<string>
+
+1544592345 source:c:\users\doc.tea\documents\github\tenkorang\final_semester project_10659057\project_10659057\src\student.cpp
+	"Student.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+
+1544592694 source:d:\project_10659057\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"Student.h"
+	"Admin.h"
+	"Lecturer.h"
+
+1544527631 d:\project_10659057\include\student.h
+	<iostream>
+	<string>
+
+1544592179 d:\project_10659057\include\admin.h
+	<iostream>
+	<string>
+
+1544592620 d:\project_10659057\include\lecturer.h
+	<iostream>
+	<string>
+	"Student.h"
+
+1544512694 source:d:\project_10659057\src\admin.cpp
+	"Admin.h"
+	"Student.h"
+	<iostream>
+	<string>
+
+1544594131 source:d:\project_10659057\src\lecturer.cpp
+	"Lecturer.h"
+	"Student.h"
+	<iostream>
+	<string>
+
+1544592345 source:d:\project_10659057\src\student.cpp
+	"Student.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+
